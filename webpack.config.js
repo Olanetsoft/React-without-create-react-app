@@ -12,6 +12,7 @@ module.exports = {
             exclude: /node_modules/
         }]
     },
+    mode: 'development',
     devServer: {
         contentBase: path.join(__dirname, 'public')
     }
