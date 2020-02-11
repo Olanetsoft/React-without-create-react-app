@@ -1,0 +1,25 @@
+{
+  "name": "React-without-create-react-app",
+  "version": "1.0.0",
+  "description": "This application explains the action behind create react app, setting up web-pack and babel for React from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olanetsoft/React-without-create-react-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olanetsoft/React-without-create-react-app/issues"
+  },
+  "homepage": "https://github.com/Olanetsoft/React-without-create-react-app#readme",
+  "dependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "@babel/preset-react": "^7.7.4"
+  }
+}
