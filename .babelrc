@@ -1,3 +1,4 @@
+// This file will tell the babel-loader to use env and react presets when converting ES6 to ES5
 {
     "presets": [
         "@babel/preset-env",
