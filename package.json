@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack",
     "start": "webpack-dev-server --watch"
-   },
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Olanetsoft/React-without-create-react-app.git"
